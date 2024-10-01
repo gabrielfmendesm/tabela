@@ -1,0 +1,6 @@
+br/insper/tabela/partida/PartidaService.class
+br/insper/tabela/partida/RetornarPartidaDTO.class
+br/insper/tabela/TabelaApplication.class
+br/insper/tabela/tabela/TabelaController.class
+br/insper/tabela/tabela/TabelaService.class
+br/insper/tabela/tabela/TabelaDTO.class
